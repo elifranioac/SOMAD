@@ -10,3 +10,4 @@ Para executar um ou mais agentes (não esquecer da chamada a ``start_loop``):
 pade start-runtime agente1.py agente2.py [...]
 ``` "# SOMAD" 
 "# SOMAD" 
+"# SOMAD" 
